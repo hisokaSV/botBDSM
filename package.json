@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "RedR00mBDSMmusic_bot_discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ShiroTsuki76",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "github:discordjs/Commando",
+    "opusscript": "0.0.8",
+    "ytdl-core-discord": "^1.3.0"
+  }
+}
